@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-let mongoDB = ;
+let mongoDB = MONGO_URI;
 
 ////EXAMPLE////
 // Make sure to create .env file and use an environment variable
